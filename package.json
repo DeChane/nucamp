@@ -17,5 +17,13 @@
     "bootstrap": "^4.5.2",
     "jquery": "^3.5.1",
     "popper.js": "^1.16.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DeChane/nucamp.git"
+  },
+  "bugs": {
+    "url": "https://github.com/DeChane/nucamp/issues"
+  },
+  "homepage": "https://github.com/DeChane/nucamp#readme"
 }
